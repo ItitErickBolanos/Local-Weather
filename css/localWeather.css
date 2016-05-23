@@ -1,0 +1,21 @@
+body {
+    background: #64B5F6;
+    color: white;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+.wi {
+    font-size: 72px;
+}
+
+.unit {
+    color: #FFEB3B;
+    cursor: pointer;
+}
